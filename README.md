@@ -1,4 +1,10 @@
 # belajar-kolaborasi
-belajar di Dicoding dan Coursera sangat menyenangkan
+belajar kolaborasi dalam github
 
-Halo saya ramadhan
+1. **Timeline 1** Belajar Kolaborasi
+2. **Timeline 2** Belajar Organisasi
+3. **Timeline 3** Belajar Dasar Kepemimpinan
+4. **Timeline 4**
+5. **Timeline 5**
+6. **Timeline 6**
+
