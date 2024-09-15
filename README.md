@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-belajar di Dicoding dan Coursera sangat menyenangkan
+belajar kolaborasi dalam github
